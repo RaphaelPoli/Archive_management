@@ -1,5 +1,5 @@
 # Archive_management
-This is a collection of small tool to help with archive management (files, hard disks, memory cards, data structures)
+This is a collection of small tools to help with archive management (files, hard disks, memory cards, data structures)
 
 Compare_copies.R compares the csv lists of files created by iterate_and_list.py and creates the list of missing files and the list of copied files.
 
